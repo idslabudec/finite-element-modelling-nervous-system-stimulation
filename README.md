@@ -1,6 +1,6 @@
 # Finite Element Modelling for Biophysical Models of Nervous System Stimulation: Best Practices for Multiscale Adaptive Meshing - Simulation Files
 
-Welcome to the **Finite Element Modelling for Biophysical Models of Nervous System Stimulation: Best Practices for Multiscale Adaptive Meshing** repository! This repository contains simulation files for reproducing the experiments presented in the paper "Finite Element Modelling for Biophysical Models of Nervous System Stimulation: Best Practices for Multiscale Adaptive Meshing".
+Welcome to the **Finite Element Modelling for Biophysical Models of Nervous System Stimulation: Best Practices for Multiscale Adaptive Meshing** repository! This repository contains simulation files forreproducing the experiments presented in the paper "Finite Element Modelling for Biophysical Models of Nervous System Stimulation: Best Practices for Multiscale Adaptive Meshing".
 The models included in this repository simulate the effects of electrical stimulation on:
 - **Thigh Muscle:** Focusing on analysing double derivative errors and their effects on a Hodgkin-Huxley axon model.
 - **Cortical Region:** Focusing on analysing double derivative errors produced by material changes and Multiscaling meshes.
@@ -10,7 +10,9 @@ The models included in this repository simulate the effects of electrical stimul
 - [Getting Started](#getting-started)
 - [Version History](#version-history)
 - [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
+- [Cite Us](#cite-us)
 
 ## Getting Started
 
@@ -35,7 +37,16 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch
 5. Open a Pull Request
 
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 ## Contact
+
 * Rodrigo Osorio Lepez - Department of Electric and Electronic Engineering, Universidad del Bio Bio, Concepcion, Chile. - rodosorio@udec.cl
 * Siobhan Mackenzie Hall Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom -  siobhan.hall@nds.ox.ac.uk 
+
+## Cite Us
+
+Pending
 
