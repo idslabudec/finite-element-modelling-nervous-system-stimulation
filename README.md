@@ -26,10 +26,10 @@ The models included in this repository simulate the effects of electrical stimul
 
 ## Contributing
 
-Any contributions you make are **greatly appreciated**.
+Any contributions you make will be **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Please don't forget to give the project a star. Thank you again!
 
 1. Fork the Project
 2. Create your Feature Branch 
@@ -39,14 +39,14 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `[LICENSE.txt]()` for more information.
 
 ## Contact
 
 * Rodrigo Osorio Lepez - Department of Electric and Electronic Engineering, Universidad del Bio Bio, Concepcion, Chile. - rodosorio@udec.cl
-* Siobhan Mackenzie Hall Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom -  siobhan.hall@nds.ox.ac.uk 
+* Siobhan Mackenzie Hall - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom -  siobhan.hall@nds.ox.ac.uk 
 
-## Cite Us
+## Citation
 
 Pending
 
