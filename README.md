@@ -16,8 +16,8 @@ The models included in this repository simulate the effects of electrical stimul
 
 ## Getting Started
 
-* Model specifications available in .m files (Requires MATLAB to execute)
-* Originally simulated in COMSOL MULTIPHYSICS v6.2
+* Model specifications available in .m files (Requires [MATLAB](https://www.mathworks.com/products/matlab.html) to execute)
+* Originally simulated in [COMSOL MULTIPHYSICS v6.2](https://www.comsol.com/)
 
 ## Version History
 
@@ -39,12 +39,12 @@ Please don't forget to give the project a star. Thank you again!
 
 ## License
 
-Distributed under the MIT License. See `[LICENSE.txt]()` for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/idslabudec/finite-element-modelling-nervous-system-stimulation/blob/master/license.txt) for more information.
 
 ## Contact
 
-* Rodrigo Osorio Lepez - Department of Electric and Electronic Engineering, Universidad del Bio Bio, Concepcion, Chile. - rodosorio@udec.cl
-* Siobhan Mackenzie Hall - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom -  siobhan.hall@nds.ox.ac.uk 
+* Rodrigo Osorio Lepez - Department of Electric and Electronic Engineering, Universidad del Bio Bio, Concepcion, Chile: rodosorio@udec.cl
+* Siobhan Mackenzie Hall - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom: siobhan.hall@nds.ox.ac.uk 
 
 ## Citation
 
